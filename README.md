@@ -7,10 +7,9 @@
 
 
   ## 🙋‍♂️ About Me
-
-  🌱 I'm currently **improving my skills**
-
   🏋️‍♀️ I'm interested in **Front-End development**
+  
+  🌱 I'm currently **improving my skills**
   
   📫 Reach me : annawlgus5@gmail.com
 
@@ -19,6 +18,10 @@
   👩‍💻 My Profile : [Jihyeon Profile](https://woolly-taxicab-b77.notion.site/Jihyeon-Lee-6457617d413640a1a41f06070fcde841?pvs=4)
 
   📗 My blog : [FrontEnd DeepDive](https://shakehyeon.tistory.com/)
+
+  ✨ What I want : Experience and learn from failure
+
+  
   
 
   <!--[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:annawlgus5@gmail.com)
