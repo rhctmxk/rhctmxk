@@ -19,7 +19,7 @@
 
   📗 My blog : [FrontEnd DeepDive](https://shakehyeon.tistory.com/)
 
-  ✨ What I want : Experience and learn from failure
+  ✨ What I want : **Experience and learn from failure**
 
   
   
@@ -31,33 +31,62 @@
   [![Portfolio Badge](https://img.shields.io/badge/Portfolio-EF2D5E?style=flat&logoColor=white)]()
   ![Github Badge](https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white)-->
 
+<br/>
 
+## ⌨ Tech Stacks
+**Language**
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/> 
+
+**Frame work**
+![React Badge](https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white) 
+![Node.js Badge](https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white) 
+![Express Badge](https://img.shields.io/badge/Express-000000?style=flat&logo=Express&logoColor=white) 
+![Django Badge](https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white)
+
+**ETC**
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white"/>
+
+**Development Tool**
+<img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJIDEA&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/>
+
+**Studying**
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
+
+
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white"/> 
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white"/> 
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white"/> 
+<img src="https://img.shields.io/badge/StyledComponents-DB7093?style=flat&logo=styledComponents&logoColor=white"/> 
+<img src="https://img.shields.io/badge/SASS-CC6699?style=flat&logo=SASS&logoColor=white"/>
+
+
+<br/>
+
+
+## 💾 Repositories
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhctmxk&show_icons=true&theme=onedark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhctmxk&layout=compact&theme=date_night)](https://github.com/anuraghazra/github-readme-stats)
 
 
   
 <!--<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>-->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhctmxk&show_icons=true&theme=onedark)
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhctmxk&show_icons=true&theme=onedark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhctmxk&show_icons=true&theme=shadow_red)-->
+
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhctmxk&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhctmxk&layout=compact&theme=date_night)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhctmxk&layout=compact&theme=calm_pink)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhctmxk&layout=compact&theme=shadow_reed)](https://github.com/anuraghazra/github-readme-stats)-->
+
+
+
 </div>
-
-
-
-
-<!--
-**rhctmxk/rhctmxk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 
 
 
