@@ -3,7 +3,7 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&height=300&text=JihyeonLee&fontAlign=50&fontAlignY=40&color=gradient&customColorList=0,9" /> 
   </div>
 
-  <h3 align="center"><font size="5">Hi, I'm Jihyeon Lee <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></font></h3><br/>
+  <h3 align="center"><font size="5">Hello, I'm JiHyeon Lee, who increases the value of the service based on the user experience. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></font></h3><br/>
 
 
   ## 🙋‍♂️ About Me
