@@ -15,7 +15,7 @@
 
   💻 I'm woking at : [Korea ORBCOMM](http://www.orbcomm.co.kr/)
 
-  👩‍💻 My Profile : [Jihyeon Profile](https://woolly-taxicab-b77.notion.site/Jihyeon-Lee-6457617d413640a1a41f06070fcde841?pvs=4)
+  👩‍💻 My Profile : [Jihyeon Profile](https://woolly-taxicab-b77.notion.site/1e916df449c24b2b96c664cd297ceadb?pvs=4)
 
   📗 My blog : [FrontEnd DeepDive](https://journey1019.tistory.com/)
 
