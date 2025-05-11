@@ -11,9 +11,7 @@
   
   🌱 I'm currently **improving my skills**
   
-  📫 Reach me : annawlgus5@gmail.com
-
-  💻 I'm woking at : [Korea ORBCOMM](http://www.orbcomm.co.kr/)
+  📫 Reach me : annawlgus1004@gmail.com
 
   👩‍💻 My Profile : [Jihyeon Profile](https://woolly-taxicab-b77.notion.site/1e916df449c24b2b96c664cd297ceadb?pvs=4)
 
@@ -24,7 +22,7 @@
   
   
 
-  <!--[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:annawlgus5@gmail.com)
+  <!--[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:annawlgus1004@gmail.com)
 
   [![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-FF5A5F?style=flat&logo=Tistory&logoColor=white)](https://shakehyeon.tistory.com/)
   [![Notion Badge](https://img.shields.io/badge/Development%20Log-E9568E?style=flat&logo=Notion&logoColor=white)](https://woolly-taxicab-b77.notion.site/Jihyeon-Lee-6457617d413640a1a41f06070fcde841?pvs=4)
