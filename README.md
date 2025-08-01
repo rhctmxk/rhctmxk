@@ -66,9 +66,9 @@
 <br/><br/>
 
 
-## 💾 Repositories
+<!--## 💾 Repositories
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhctmxk&show_icons=true&theme=onedark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhctmxk&layout=compact&theme=date_night)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhctmxk&layout=compact&theme=date_night)](https://github.com/anuraghazra/github-readme-stats)-->
 
 
   
